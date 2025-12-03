@@ -28,3 +28,10 @@ Installation Steps
 - File --> Sync Project With Gradle Files
 - Build --> Assemble Project
 - Run Project
+
+Resources Used
+    •    Jetpack Compose Documentation - https://developer.android.com/jetpack/compose
+    •    Compose Layouts - https://developer.android.com/develop/ui/compose/graphics/draw/overview
+    •    Canvas API Documentation - https://developer.android.com/reference/kotlin/androidx/compose/foundation/Canvas
+    •    Kotlin for Android - https://developer.android.com/kotlin
+    •    Class Notes 

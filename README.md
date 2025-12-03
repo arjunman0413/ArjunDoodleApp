@@ -19,12 +19,12 @@ Features
         Undo functionality
 
 Installation Steps
-  Open Android Studio to the projects screen
-  Click Clone Repository
-  Enter the following into the URL field: https://github.com/arjunman0413/ArjunDoodleApp.git
-  Choose a Directory of your preference
-  Select Clone button in bottom right
-  Trust the project
-  File --> Sync Project With Gradle Files
-  Build --> Assemble Project
-  Run Project
+- Open Android Studio to the projects screen
+- Click Clone Repository
+- Enter the following into the URL field: https://github.com/arjunman0413/ArjunDoodleApp.git
+- Choose a Directory of your preference
+- Select Clone button in bottom right
+- Trust the project
+- File --> Sync Project With Gradle Files
+- Build --> Assemble Project
+- Run Project
